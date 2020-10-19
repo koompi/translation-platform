@@ -10,7 +10,7 @@
 [ ]4. After we analyse what kinds of file is that(formats), create a place to choose from
         project default language to language(target)
 
-[ ]5. 
+[ ]5. After finished translation, recreate the project structure with the files that translate        also maybe zip the projects to make it in one file, easy to download
 
 [ ]6.
 
